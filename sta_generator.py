@@ -11,7 +11,7 @@ if race == 'dark elf':
     race = 'drow'
 
 
-
+#a simple comment
 
 
 #creating an empty stat list
